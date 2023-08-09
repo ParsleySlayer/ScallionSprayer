@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is A83E-661C
+
+ Directory of C:\Users\julia\repos\ScallionSprayer
+
+08/08/2023  08:13 PM    <DIR>          .
+08/08/2023  08:02 PM    <DIR>          ..
+08/08/2023  08:13 PM                 0 newfile.txt
+08/08/2023  08:03 PM                17 README.md
+               2 File(s)             17 bytes
+               2 Dir(s)  624,205,803,520 bytes free
